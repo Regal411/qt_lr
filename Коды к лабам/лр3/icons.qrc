@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>datei-download.png</file>
+        <file>free-icon-exit-2760599.png</file>
+        <file>free-icon-export-4911806.png</file>
+    </qresource>
+</RCC>
